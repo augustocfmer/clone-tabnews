@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "Projeto para treinar programação",
+  "description": "Projeto clone-tabnews",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && next dev",
